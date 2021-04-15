@@ -1,0 +1,6 @@
+flask
+flask_restful
+paho-mqtt
+flask_jwt_extended
+sqlalchemy
+Werkzeug
